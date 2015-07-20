@@ -14,5 +14,13 @@
     "url",
     "browser"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noeldelgado/get-location-origin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noeldelgado/get-location-origin/issues"
+  },
+  "homepage": "https://github.com/noeldelgado/get-location-origin#readme"
 }
